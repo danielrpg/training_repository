@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IntentApp</string>
+    <string name="bt_act1_text">Activity 2</string>
+    <string name="btn_act2_text">Activity 3</string>
+    <string name="et_text_hint">please enter your name</string>
+    <string name="tvWelcome">Welcome to Activity 2</string>
+    <string name="textMessageError">Please enter a valid number!</string>
+    <string name="textWelcomeSecond">, Welcome to Activity 2!</string>
+    <string name="textRequiredField">Please enter all fields</string>
+    <string name="textNoData">No data received!</string>
+</resources>

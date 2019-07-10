@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="main_button_submit">Calcular</string>
+    <string name="main_hint_bill">Total</string>
+    <string name="main_hint_percentage">% de propina</string>
+    <string name="main_button_increase">+</string>
+    <string name="main_button_decrease">-</string>
+    <string name="main_button_clear">Borrar recientes</string>
+    <string name="main_notice_clear">Elementos recientes ha quedado vacio</string>
+    <string name="main_menu_about">Acerca de</string>
+
+    <string name="global_message_tip">Propina %,.1f</string>
+
+</resources>

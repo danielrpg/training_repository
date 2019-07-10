@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Explicit Video Intent</string>
+    <string name="ht_please_enter">Please enter the name</string>
+    <string name="bt_text1">Activity 2</string>
+    <string name="btn_text2">Activity 3</string>
+</resources>
