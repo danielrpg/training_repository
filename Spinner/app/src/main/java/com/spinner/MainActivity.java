@@ -16,7 +16,6 @@ public class MainActivity extends AppCompatActivity {
     private Spinner spinner;
     private EditText et_value1, et_value2;
     private TextView tv_result;
-    private Button bt_calc;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -28,11 +27,10 @@ public class MainActivity extends AppCompatActivity {
 
         tv_result = findViewById(R.id.tv_result);
         spinner = findViewById(R.id.spinner);
-        bt_calc = findViewById(R.id.button);
 
-        String [] opciones = { "sum", "minus", "multiply", "divided by" };
+        String [] options = { "sum", "minus", "multiply", "divided by" };
                                                                                 //android.R.layout.simple_spinner_item
-        ArrayAdapter <String> adapter =  new ArrayAdapter<String>(this, R.layout.spinner_item_operation, opciones);
+        ArrayAdapter <String> adapter =  new ArrayAdapter<String>(this, R.layout.spinner_item_operation, options);
         spinner.setAdapter(adapter);
 
     }
