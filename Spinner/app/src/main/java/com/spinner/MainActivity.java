@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
         bt_calc = findViewById(R.id.button);
 
         String [] opciones = { "sum", "minus", "multiply", "divided by" };
-
+                                                                                //android.R.layout.simple_spinner_item
         ArrayAdapter <String> adapter =  new ArrayAdapter<String>(this, R.layout.spinner_item_operation, opciones);
         spinner.setAdapter(adapter);
 
