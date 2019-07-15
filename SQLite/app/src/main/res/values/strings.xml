@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">User Management</string>
+    <string name="btn_insert_usr">Register User</string>
+    <string name="btn_query_usr">List Users</string>
+    <string name="btn_query_list_usr">List Users Spinner</string>
+    <string name="btn_query_listv_usr">List Users ListView</string>
+
+    <!-- controls -->
+    <string name="et_user_id">ID User</string>
+    <string name="et_user_name">Name User</string>
+    <string name="et_user_telephone">Telephone User</string>
+    <string name="btn_user_register">Register New User</string>
+</resources>
