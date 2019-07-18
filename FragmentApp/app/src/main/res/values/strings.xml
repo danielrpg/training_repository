@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FragmentApp</string>
+    <string name="frag_title_text">EXAMPLE FRAGMENT STATIC</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello red fragment</string>
+    <string name="hello_blank_fragment2">Hello green fragment</string>
+</resources>
