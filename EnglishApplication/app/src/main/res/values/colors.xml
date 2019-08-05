@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF9800</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="bg_splash_first_color">#FF9800</color>
+    <color name="bg_splash_second_color">#F57C00</color>
+
+    <color name="bg_btn_color">#795548</color>
+    <color name="bg_btn_txt_color">#FFFFFF</color>
+
+</resources>

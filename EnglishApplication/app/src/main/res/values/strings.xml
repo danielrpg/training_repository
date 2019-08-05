@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">English App</string>
+    <string name="txt_splash_text1">Welcome, English App</string>
+    <string name="txt_splash_text2">Let`s learn together</string>
+    <string name="btn_splash_text">Start</string>
+    <string name="txt_splash_text3">Copyright @Daniel</string>
+</resources>
