@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/edit_fragment">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="236dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15sp"
+        android:layout_marginTop="15sp"
+        android:layout_marginRight="15sp"
+        android:text="@string/txt_title_register"
+        android:textColor="@color/colorAccent"
+        android:textSize="@dimen/size_title" />
+
+    <EditText
+        android:id="@+id/txt_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15sp"
+        android:layout_marginTop="17sp"
+        android:layout_marginRight="15sp"
+        android:ems="10"
+        android:hint="@string/txt_id_cli"
+        android:inputType="number" />
+
+    <EditText
+        android:id="@+id/txt_name_cli"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15sp"
+        android:layout_marginTop="17sp"
+        android:layout_marginRight="15sp"
+        android:ems="10"
+        android:hint="@string/txt_name_cli"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/txt_last_n_cli"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15sp"
+        android:layout_marginTop="17sp"
+        android:layout_marginRight="15sp"
+        android:ems="10"
+        android:hint="@string/txt_last_n_cli"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/txt_email_cli"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15sp"
+        android:layout_marginTop="17sp"
+        android:layout_marginRight="15sp"
+        android:ems="10"
+        android:hint="@string/txt_email_cli"
+        android:inputType="date" />
+
+    <EditText
+        android:id="@+id/txt_phone_cli"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15sp"
+        android:layout_marginTop="17sp"
+        android:layout_marginRight="15sp"
+        android:ems="10"
+        android:hint="@string/txt_phone_cli"
+        android:inputType="textEmailAddress" />
+
+    <Button
+        android:id="@+id/btn_register_cli"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15sp"
+        android:layout_marginTop="17sp"
+        android:layout_marginRight="15sp"
+        android:background="@color/colorPrimary"
+        android:text="@string/btn_register_cli"
+        android:textColor="#FFFFFF" />
+</LinearLayout>

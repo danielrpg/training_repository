@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Clients Registration</string>
+
+    <string name="txt_title_register">Client Form</string>
+    <string name="txt_id_cli">Identification Number</string>
+    <string name="txt_name_cli">Client Name</string>
+    <string name="txt_last_n_cli">Client Last Name</string>
+    <string name="txt_email_cli">Client Email</string>
+    <string name="txt_phone_cli">Client Phone</string>
+    <string name="btn_register_cli">Save Information</string>
+
+    <string name="txt_title_search">Client Search</string>
+    <string name="btn_search">Search</string>
+</resources>
